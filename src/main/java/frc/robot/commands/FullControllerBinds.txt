@@ -1,0 +1,33 @@
+Driver:
+Left stick - Robot translation
+Right stick - Robot rotation
+X Button - Align with reflective tape on node
+Y Button - Align with april tag on node
+UP D-pad - 
+DOWN D-pad - 
+A Button -Alliance station align
+B Button - Auto Balance
+LEFT D-pad - Align with left platform
+RIGHT D-pad - Align with right platform
+Left Bumper - Cube LED
+Right Bumper - Cone LED
+Left Trigger - Open
+Right Trigger - Close
+
+Operator:
+Left Bumper - Mid node
+Right Bumper - High node
+B Button - Low node
+Right Trigger - Platform pickup
+Left Trigger - Floor pickup
+Y Button - Moving setpoint
+A Button - Close Claw
+X Button - Open Claw
+UP D-Pad - Manual Elevator
+DOWN D-Pad - Manual Elevator
+LEFT D-Pad - Manual Telescope
+RIGHT D-Pad - Manual Telescope
+Left stick Y - Manual Wrist
+Left stick X - 
+Right stick Y - Manual Arm
+Right stick X - 
